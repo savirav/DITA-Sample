@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+"topic.dtd">
+<topic id="Notepad-Introduction">
+  <title>Introduction</title>
+
+  <body>
+    <p>Notepad++ is an enhanced text editor that can be used for editing
+    source codes. Unlike the regular notepad, it provides an ideal environment
+    for programmers that supports many programming languages and file formats.
+    Its workspace is highly configurable that can be adjusted to suit the
+    working style and needs of the user. </p>
+
+    <p>Developed in C++ language, Notepad++ incorporates the powerful editing
+    component Scintilla. Its execution speed is high owing to the use of Win32
+    API and STL, which also offer the advantage of less program space.
+    Notepad++ is user friendly as well as environment friendly. It is light on
+    the CPU and consumes less power, thus resulting in less CO2 footprint.
+    </p>
+  </body>
+</topic>

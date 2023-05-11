@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"map.dtd">
+<map>
+  <title>Notepad ++</title>
+
+  <topicref href="Introduction.dita" navtitle="Introduction to Notepad ++"/>
+
+  <topicref navtitle="File Menu">
+    <topicref href="Creating%20a%20new%20document.dita"
+              navtitle="Creating a new document"/>
+
+    <topicref href="Saving%20a%20document.dita" navtitle="Saving a document"/>
+  </topicref>
+</map>

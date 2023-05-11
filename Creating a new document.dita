@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="Creating_a_new_document">
+  <title>Creating a new document</title>
+
+  <taskbody>
+    <steps-informal>A new text tab will load by default, you can type out your
+    code or text and save it with the desired extension.You can create a file
+    in three alternate ways:<ul>
+        <li>Click on the new <image href="new%20icon.png"/> icon on the main
+        tool bar</li>
+
+        <li>Choose the <b>New</b> menu from File drop down menu in the menu
+        bar<p><image href="file%20new.png"/></p></li>
+
+        <li>Press the <b>Ctrl+N </b>keys</li>
+      </ul><p><image href="new%20file%20tab.png"/></p><p>The new file tab will
+    appear. Key in the code or text you want. You can set the text format or
+    the programming language of your choice using the <b>Language</b>
+    menu.</p><p><image href="language.png"/></p>The <b>context sensitive
+    pop-up menus</b> will provide you instant prompts as you key in the
+    code.<p><image
+    href="context%20sensitive%20help.png"/></p></steps-informal>
+  </taskbody>
+</task>

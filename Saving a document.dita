@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="Saving_a_document">
+  <title>Saving a Document</title>
+
+  <taskbody>
+    <steps-informal><p>You can save a file in the following ways:</p><ul>
+        <li>Click on the <b>save</b><image href="save%20icon.png"/>icon on the
+        main tool bar</li>
+
+        <li>Press the <b>Ctrl+S</b> keys</li>
+
+        <li>Choose the appropriate <b>Save menu option</b> from the <b>File
+        drop down menu</b> in the menu bar<p><image
+        href="save%20menu%20options.png"/></p><ul>
+            <li>Save: saves the file with a new name or the changes made to an
+            already existing and open file</li>
+
+            <li>Save As: saves the document under a new name, and the new file
+            remains open for editing</li>
+
+            <li>Save A Copy As: saves the document under a new name, but the
+            original, not the new one remains open for editing</li>
+
+            <li>Save: saves all the open files at once</li>
+          </ul></li>
+
+        <li>Choose the destination where you wish to save the file<p><image
+        href="save%20as%20menu.png"/></p></li>
+
+        <li>Enter the file name, choose the file type and click on the Save
+        button<p><image href="save%20as%20type.png"/></p></li>
+      </ul></steps-informal>
+  </taskbody>
+</task>
