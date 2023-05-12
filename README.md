@@ -12,7 +12,7 @@ This editor is equipped with advanced tools that ease the editing and publishing
 Here's the download link - [XMLMIND Personal Edition](http://www.xmlmind.com/xmleditor/download.shtml)
 
 ## Opening the files:
- 1. Download the zipped file. ![file download](https://github.com/savirav/portfolio/blob/main/file%20download.png)
+ 1. Download the zipped file.
  2.  Unzip the contents into a folder. 
  3. Open the XML editor tool. 
  4. Go to **File ⇾ Open** and choose the file "notepadplusplus.ditamap~”.
